@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+PyJWT
+boto3
+psycopg2-binary
+yookassa
